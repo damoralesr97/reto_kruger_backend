@@ -49,6 +49,13 @@ Con esto se levantara la app de Spring Boot en el puerto 8080, y la BD PostreSql
 ![asd](./imagenes/diagramaer.png)
 Diagrama ER de la BD.
 
+## Credenciales de la BD
+* **Puerto:** 5432
+* **Nombre BD:** vacunas
+* **Usuario:** kruger
+* **Contraseña:** kruger
+
+
 Cuando se levanta la app de Spring Boot se crea el usuario Administrador, con las siguientes credenciales: 
 * **usuario:** admin
 * **contraseña:** admin
