@@ -69,3 +69,9 @@ Cuando el administrador crea un empleado unicamente debe especificar la informac
 El sistema creará el siguiente usuario y contraseña para el empleado:
 **usuario:** jflores
 **contraseña:** 0107656765
+
+Para agregar una vacuna se debe utilizar una de las siguientes opciones, ya que se usa un Enum para el tipo de vacuna:
+* SPUTNIK
+* ASTRAZENECA
+* PFIZER
+* JHONSONYJHONSON
